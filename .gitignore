@@ -20,3 +20,7 @@ data/*
 !data/.gitkeep
 output/*
 !output/.gitkeep
+
+output/*.mp4
+output/*.avi
+!output/tracking_result.mp4
