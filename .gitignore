@@ -1,0 +1,22 @@
+# Python and virtual environment files
+__pycache__/
+*.pyc
+venv/
+env/
+.venv/
+
+# IDE and editor specific files
+.vscode/
+.idea/
+.DS_Store
+
+# YOLO model files
+*.pt
+models/*
+!models/.gitkeep
+
+# Test videos and output files
+data/*
+!data/.gitkeep
+output/*
+!output/.gitkeep
