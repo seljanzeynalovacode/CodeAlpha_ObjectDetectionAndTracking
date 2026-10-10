@@ -14,6 +14,7 @@ env/
 *.pt
 models/*
 !models/.gitkeep
+!models/yolov8s.pt
 
 # Test videos and output files
 data/*
