@@ -35,7 +35,7 @@ while True:
     prev_time = curr_time
 
     # Object detection and tracking (conf=0.5 for better accuracy)
-    results = model.track(frame, persist=True, conf=0.5)
+    results = model.track(frame, persist=True, conf=0.5, tracker="botsort.yaml")
 
     # Plot bounding boxes and IDs on the frame
     annotated_frame = results[0].plot()
