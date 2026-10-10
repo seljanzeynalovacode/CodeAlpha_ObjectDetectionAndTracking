@@ -50,8 +50,8 @@ Make sure you have Python (3.8 or higher) installed on your system.
 ### 2. Installation
 Clone the repository and navigate into the project directory:
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/seljanzeynalovacode/CodeAlpha_ObjectDetectionAndTracking
+cd CodeAlpha_ObjectDetectionAndTracking
 ```
 
 *(Optional but recommended)* Create and activate a virtual environment:
