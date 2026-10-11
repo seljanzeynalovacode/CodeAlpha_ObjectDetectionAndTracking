@@ -1,9 +1,9 @@
 # Real-Time Object Detection and Tracking with YOLOv8 🎯
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-4.X-white?style=flat&logo=opencv)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-blue?style=flat)
-![Status](https://img.shields.io/badge/Status-Completed-success?style=flat)
+![Python](https://img.shields.io/badge/Python-3.8+-blue?style=plastic&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.X-white?style=plastic&logo=opencv)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-blue?style=plastic)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=plastic)
 
 This repository contains a real-time computer vision project focused on **Object Detection and Tracking**. Built as a robust and optimized pipeline, it utilizes the state-of-the-art YOLOv8 model for precise detection and tracking algorithms to assign consistent IDs to objects across video frames.
 
